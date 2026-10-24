@@ -1,4 +1,4 @@
-# JUST FEEDBACK ANYTHING · 终端里的成长教练
+# Jufeeda · 终端里的成长教练
 
 > **反馈不是挑刺，是陪你变强的教练。**
 
@@ -16,7 +16,7 @@
 ## 用法
 
 ```bash
-cd feedback-harness
+cd Jufeeda
 
 # ① 反馈任何事
 python main.py review examples/sample_prd.md

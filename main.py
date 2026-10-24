@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-main.py —— 反馈 harness 入口
+main.py —— Jufeeda 入口
 =============================
 
 用法（在项目根目录）：
@@ -22,7 +22,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="JUST FEEDBACK ANYTHING · 反馈任何事")
+    parser = argparse.ArgumentParser(description="Jufeeda · 反馈任何事")
     sub = parser.add_subparsers(dest="cmd", required=True)
 
     p_review = sub.add_parser("review", help="评审文件或文本（反馈任何事）")

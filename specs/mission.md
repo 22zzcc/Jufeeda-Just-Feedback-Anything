@@ -1,4 +1,4 @@
-# Mission · JUST FEEDBACK ANYTHING
+# Mission · Jufeeda
 
 一个住在终端里的**成长教练**。它不是"挑毛病的工具"，而是一个**记得你、催着你、陪你变强**的长期伙伴。
 

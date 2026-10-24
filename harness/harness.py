@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-harness/harness.py —— 反馈 harness 编排
+harness/harness.py —— Jufeeda 编排
 ========================================
 
 把「文档类型识别 → 规则评审器 → 可选 LLM 评审」串成一个可复用的 review()。
